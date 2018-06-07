@@ -1,5 +1,7 @@
 # README
 
+This project begins at 7th, June.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
